@@ -1,6 +1,12 @@
 // DaysInMonth.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+// This program asks the user to enter the month (an integer in the range of 1 through 12) and the year.
+// The program then displays the number of days in that month. The calculations accounts for the leap year.
+// 
+// Programmer: Aslihan Celik
 //
+// Date: 10/26/2024
+
 #include <iostream>
 using namespace std;
 
